@@ -12,9 +12,9 @@ render(
   <>
     {/* <Counter /> */}
     {/* <Moods /> */}
-    <Spinner />
+    {/* <Spinner /> */}
     {/* <Input /> */}
-    {/* <Squares /> */}
+    <Squares />
     {/* <Programmers /> */}
   </>
   ,
