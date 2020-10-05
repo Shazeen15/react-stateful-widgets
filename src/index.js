@@ -10,12 +10,12 @@ import Programmers from './components/Programmers';
 
 render(
   <>
-    <Counter />
-    <Moods />
+    {/* <Counter /> */}
+    {/* <Moods /> */}
     <Spinner />
-    <Input />
-    <Squares />
-    <Programmers />
+    {/* <Input /> */}
+    {/* <Squares /> */}
+    {/* <Programmers /> */}
   </>
   ,
   document.querySelector('#root')
